@@ -1,4 +1,4 @@
-# 🏏 ChaseX - IPL Win Predictor
+IPL Win Predictor
 
 ## 📌 Project Overview
 
@@ -116,7 +116,3 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
-
-Made with ❤️ by **Gauraang Rajvanshi**  
-© 2025 ChaseX
